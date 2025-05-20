@@ -1,0 +1,8 @@
+*.env
+
+__pycache__/
+*mlruns/
+*mlartifacts/
+*data/
+
+*.vscode
