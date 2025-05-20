@@ -24,9 +24,6 @@ from llama_index.postprocessor.colpali_rerank import ColPaliRerank
 # )
 colpali_reranker = None
 
-# cohere_rerank = CohereRerank(
-#     api_key="yWEEBc7lndS6XabMlFW75bFk9giKWAs5xTojtiwI", top_n=3
-# )
 
 cohere_rerank = None
 
